@@ -1,23 +1,42 @@
 ⚠ Legal Disclaimer ⚠
-Educational and Research Purposes:This product is created for educational and research purposes only. It is not intended for commercial use, hacking, cheating or breaking the rules of any online games.
 
-Prohibited Use:This programme is not intended for use on official game company servers and may not be used to gain an unfair advantage in games. Use of the programme in violation of the game's terms of service may result in sanctions from game developers, including account blocking.
+Educational, Research, and Demonstration Purposes
+This product is provided for educational, research, and demonstration purposes only. While available commercially, it is not intended for cheating, hacking, or breaking the rules of any online games. The program should be used solely as an educational or research tool.
 
-No affiliation with game companies:We are not affiliated or associated with the developers, publishers or owners of games to which this product may apply. All trademarks and game titles belong to their rightful owners. Use of the programme does not grant any rights to the software of the games.
+Prohibited Use
+This program is not designed for use on official game servers, nor to gain any unfair advantage. Any use in violation of a game’s Terms of Service, End User License Agreement (EULA), or applicable laws is solely at the user’s risk. The developers shall not be held liable for any consequences, including account suspension, bans, or other penalties.
 
-Similarity to trade marks: Any accidental similarities of names, logos or other product elements to registered trade marks are accidental and unintentional. We do not claim the rights of third parties and are not responsible for any similarities.
+No Affiliation or Endorsement
+This product is not affiliated with, endorsed, or sponsored by Blizzard Entertainment or any other game developer. All trademarks, logos, and game titles are the property of their respective owners. Use of this program does not grant any rights to the software or intellectual property of these games.
 
-The programme is provided ‘as is’:This product is provided ‘as is’ without warranty of any kind, either express or implied. We make no promises about its functionality, security, reliability, or compatibility with any software or servers.
+Trademark Disclaimer
+Any accidental similarity of names, logos, or other product elements to registered trademarks is purely coincidental and unintentional. We do not claim rights of third parties and are not responsible for any such similarities.
 
-Limitation of Liability: The developers, owners and distributors of this product shall not be liable for any damages of any kind, including but not limited to: Blocking of game accounts; Loss of data; Direct or indirect financial loss Any other consequences caused by the use of the programme.
+Program Provided “As Is”
+The program is provided “as is” without any warranties, express or implied, including, but not limited to, fitness for a particular purpose, reliability, security, or non-infringement of third-party rights. The developers make no guarantees regarding functionality, compatibility, or safety.
 
-User Responsibility:By installing and using this product, you agree that you are solely responsible for any consequences of its use. All actions taken with the use of this programme are solely at your own risk.
+Limitation of Liability
+The developers, owners, and distributors of this product shall not be liable for any damages of any kind, including, but not limited to:
 
-Compliance with laws:The User undertakes to familiarise himself with the laws of his country or region and to use the programme only within the limits of the applicable laws.
+Blocking, suspension, or termination of game accounts
 
-Changes to the terms of use:The developers reserve the right to make changes to the product and its terms of use without prior notice. The user is responsible for timely familiarisation with updates.
+Loss of data or software corruption
 
-Agreeing to the terms and conditions:By launching and using this product, you automatically agree to be bound by these terms and conditions. If you do not agree to these terms and conditions, stop using the programme immediately and remove it from your device.
+Direct or indirect financial loss
 
+Any other consequences arising from the use of the program
 
-No interference in game processes:The programme is not intended to interfere with game processes, automate actions, gain an unfair advantage or alter data on game servers.
+User Responsibility
+By purchasing, installing, or using this product, the user acknowledges and accepts full responsibility for all consequences. All actions taken with this program are solely at the user’s own risk. Users are explicitly warned that using the program on official servers may violate the game’s EULA.
+
+Compliance with Laws
+The user agrees to familiarize themselves with the laws of their country or region and to use this program only in compliance with applicable legislation.
+
+Acceptance of Terms
+By purchasing, installing, or using this product, the user confirms that they have read, understood, and agreed to all terms and conditions. If the user does not agree, they must immediately stop using and delete the program.
+
+Changes to Terms
+The developers reserve the right to modify the product and these terms at any time without prior notice. Users are responsible for reviewing updates or changes.
+
+No Interference with Game Processes
+This program is not intended to interfere with game processes, automate actions, gain unfair advantages, or modify data on game servers. Any use for such purposes is strictly at the user’s own risk.
